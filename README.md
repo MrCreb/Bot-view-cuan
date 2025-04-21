@@ -1,3 +1,11 @@
+#Vidio
+- Vidio tutor bisa download langsung file di atas ```klik view auto download atau klik titik 3 di file untuk download bebass .salam cuan bos ku```
+- Buat mendukung saya bisa kirim USDT jaringan Trc20 ,ni alamat gua
+  ```bash
+  TKzSXVjhPk2G2Vo1D9htCNnidUD86zvqFb
+  ```
+  terimakasih bos ku
+  
 # Bot-view-cuan
 - Bot ```https://traffic.jagocode.id/u/access-key```
   
